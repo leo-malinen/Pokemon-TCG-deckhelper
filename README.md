@@ -1,2 +1,8 @@
 # Pokemon-TCG-deckhelper
-A program that will help you visualize the patterns and counters of a pokemon tcg deck
+---
+
+##The purpose of this program
+
+---
+##How to use this program
+1. 
